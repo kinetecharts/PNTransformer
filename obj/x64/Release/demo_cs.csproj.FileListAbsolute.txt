@@ -1,0 +1,13 @@
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\x64\demo_cs.exe.config
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\x64\demo_cs.exe
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\x64\demo_cs.pdb
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs.csprojResolveAssemblyReference.cache
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\MainWindow.baml
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\MainWindow.g.cs
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\App.g.cs
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs_MarkupCompile.cache
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs.g.resources
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs.Properties.Resources.resources
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs.csproj.GenerateResource.Cache
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs.exe
+C:\Users\Fabien\DEV\SDKS\NeuronDataReader SDK b15\demo\demo_cs\obj\x64\Release\demo_cs.pdb
